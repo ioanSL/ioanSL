@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Cluj-Napoca, Romania
+* 🌍  I'm based in Barcelona, Spain
 * ✉️  You can contact me at [dexterdev8@proton.me](mailto:dexterdev8@proton.me)
 * 🧠  I'm learning Zero Knowledge Technology
 * 🤝  I'm open to collaborating on Blockchain projects
