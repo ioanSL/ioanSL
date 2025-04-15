@@ -26,4 +26,8 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ioansl"><img src="https://github-readme-stats.vercel.app/api?username=ioansl&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ioansl's GitHub stats" /></a>
+![ioanSL's Stats](https://github-readme-stats.vercel.app/api?username=ioanSL&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![ioanSL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ioanSL&theme=dark&hide_border=false)
+
+![ioanSL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioanSL&theme=dark&show_icons=true&hide_border=false&layout=compact)
