@@ -26,8 +26,6 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-![ioanSL's Stats](https://github-readme-stats.vercel.app/api?username=ioanSL&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
 ![ioanSL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ioanSL&theme=dark&hide_border=false)
 
 ![ioanSL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioanSL&theme=dark&show_icons=true&hide_border=false&layout=compact)
