@@ -6,8 +6,6 @@ Software Engineer
 
 * 🌍  I'm based in Barcelona, Spain
 * ✉️  You can contact me at [dexterdev8@proton.me](mailto:dexterdev8@proton.me)
-* 🧠  I'm learning Zero Knowledge Technology
-* 🤝  I'm open to collaborating on Blockchain projects
 * ⚡  When I'm not coding, I'm hiking
 
 ### Skills
